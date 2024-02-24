@@ -1,0 +1,27 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.port": "/dev/ttyUSB0",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "string.h": "c",
+    "event_groups.h": "c",
+    "config.h": "c",
+    "wifi_softap.h": "c",
+    "wifi_sta.h": "c",
+    "stdint.h": "c",
+    "gpio.h": "c",
+    "task.h": "c",
+    "beep.h": "c",
+    "ledc.h": "c",
+    "esp_err.h": "c",
+    "freertos.h": "c",
+    "led.h": "c",
+    "nvs_flash.h": "c",
+    "esp_log.h": "c",
+    "softap.h": "c"
+  }
+}
